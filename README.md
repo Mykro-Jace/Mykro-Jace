@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mykro-Jace
-- 👀 I’m interested in HTML, CSS, Javascript.
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in HTML, CSS, Javascript, Python.
+- 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 
